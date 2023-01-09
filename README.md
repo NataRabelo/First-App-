@@ -1,2 +1,2 @@
-# Primeiro_App
-Primeiro aplicativo programado em Python. Usando a biblioteca Tkinter 
+# Login Application 
+A basic login application, programmed entirely in python. Using the awesome tkinter library !
